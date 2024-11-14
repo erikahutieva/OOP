@@ -5,6 +5,8 @@ git clone https://github.com/erikahutieva/OOP.git
 2. Перейдите в папку проекта
 
 cd materials_site
+
+
 cd school_portal
 
 3. Установите виртуальное окружение
