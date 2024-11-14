@@ -10,8 +10,6 @@ cd materials_site
 cd school_portal
 
 3. Установите виртуальное окружение
-Создайте виртуальное окружение, чтобы изолировать зависимости проекта, далее активируйте виртуальное окружение:
-
 python -m venv venv
 Windows: venv\Scripts\activate
 Mac/Linux: source venv/bin/activate
